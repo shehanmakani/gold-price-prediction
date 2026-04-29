@@ -22,3 +22,10 @@ This repository contains the implementation of a robust forecasting framework fo
 ## 📝 Project Context
 This project was developed for **DS675 Machine Learning** as a Milestone 4 Final Submission. 
 **Contributors:** Sathwika Garlapati, Shehan Makani, and Prarthna Rana.
+
+## 📂 Project Structure
+- `data/`: Raw and processed Gold Price datasets.
+- `notebooks/`: Final Jupyter Notebook containing the Walk-Forward implementation.
+- `reports/`: PDF copy of the Milestone 4 Final Report.
+- `.gitignore`: Instructions for Git to ignore unnecessary files.
+- `requirements.txt`: List of Python dependencies for easy environment setup.
