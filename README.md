@@ -17,7 +17,7 @@ This repository contains the implementation of a robust forecasting framework fo
 ## 🛠️ Installation & Usage
 1. Clone the repo: `https://github.com/shehanmakani/gold-price-prediction'
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis: Open `Gold_Prediction_Final.ipynb` in Jupyter or Google Colab.
+3. Run the analysis: Open `ML_FinalProject_GoldPrice.ipynb` in Jupyter or Google Colab.
 
 ## 📝 Project Context
 This project was developed for **DS675 Machine Learning** as a Milestone 4 Final Submission. 
