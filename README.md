@@ -15,7 +15,7 @@ This repository contains the implementation of a robust forecasting framework fo
 | XGBoost | 2.14% ± 2.12% | 61.31% |
 
 ## 🛠️ Installation & Usage
-1. Clone the repo: `git clone https://github.com/yourusername/repo-name.git`
+1. Clone the repo: `https://github.com/shehanmakani/gold-price-prediction'
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the analysis: Open `Gold_Prediction_Final.ipynb` in Jupyter or Google Colab.
 
