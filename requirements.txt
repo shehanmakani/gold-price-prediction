@@ -1,7 +1,9 @@
-pandas
-numpy
-scikit-learn
-xgboost
-statsmodels
-matplotlib
-seaborn
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+xgboost>=1.7
+statsmodels>=0.13
+matplotlib>=3.6
+seaborn>=0.12
+jupyterlab>=3.0
+nbformat>=5.0
