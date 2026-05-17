@@ -1,6 +1,5 @@
 # Gold Price Prediction: Genuine Next-Day Forecasting with Walk-Forward Validation
 
-> **DS675 Machine Learning — Milestone 4 Final Submission**  
 > Contributors: Sathwika Garlapati · Shehan Makani · Prarthna Rana
 
 ---
